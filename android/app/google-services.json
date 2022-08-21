@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270303769503",
+    "project_id": "flutter-task-bda65",
+    "storage_bucket": "flutter-task-bda65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270303769503:android:6de340578f1b53512d83aa",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270303769503-94pvhifdinvu6ql4upnte782bc3a247k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhaSj85je1nDiBuw1T4DNJCh6HSSlRFDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270303769503-94pvhifdinvu6ql4upnte782bc3a247k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
